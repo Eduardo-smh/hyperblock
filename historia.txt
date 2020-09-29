@@ -1,3 +1,5 @@
 Curso de Git y GitHub: 
 
-Ejemplo de archivo Plano
+Ejemplo de archivo Plano. 
+
+Eduardo San Martin Hernandez 28 años.
