@@ -2,4 +2,4 @@ Curso de Git y GitHub:
 
 Ejemplo de archivo Plano. 
 
-Eduardo San Martin Hernandez 30 años.
+Eduardo San Martin Hernandez 30 años de vida y salud.
